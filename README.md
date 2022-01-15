@@ -7,8 +7,6 @@
 
 <p>
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/jainshubham766)
- &nbsp;
 
 ---
 <div style="text-align: justify"> 
