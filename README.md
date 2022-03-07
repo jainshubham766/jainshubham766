@@ -19,7 +19,7 @@ I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from Sinh
 
 - 🔭 I’m currently working on Web Design Projects and Restful API.
 
-- 🌱 I’m currently learning Spring Boot framework with MySQl and MongoDB Database.
+- 🌱 I’m currently learning Spring Boot framework with MySQL and MongoDB Database.
 
 - 💬 Ask me anything 🤓
 
