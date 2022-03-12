@@ -1,6 +1,6 @@
  <h1 align="center">I'm <a href="https://github.com/jainshubham766">Shubham Jain<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
-#### Glad to see you here! 🤩
+#### Glad to see you here! 🤠
 <p align="center">
     <img width="200" src="https://i.pinimg.com/originals/de/52/b7/de52b7bd3fbd77d5ca765bb6c40b3eb0.jpg">
 </p>
