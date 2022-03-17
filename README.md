@@ -25,7 +25,7 @@ I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from Sinh
 
 - 📫 How to reach me: <a href =https://www.linkedin.com/in/jainshubham766/ target=_blank> LinkedIn</a>
 
-- 🥅 2022 Goals: Contribute to Open Source projects and Code more.
+- 🥅 2022 Goals: Better in Coding & Solid DSA Foundation.
 <hr>
  <br>
 <br>
