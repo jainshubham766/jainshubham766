@@ -3,13 +3,6 @@
 #### Glad to see you here! 🤠
 <p align="center">
     <img width="200" src="https://i.pinimg.com/originals/de/52/b7/de52b7bd3fbd77d5ca765bb6c40b3eb0.jpg">
-</p>
-
-<p>
-
-
----
-<div style="text-align: justify"> 
 
 I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from Sinhgad College of Engineering, Pune 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development, SpringBoot 🕸️ and working on my Data Structures and Algorithms 🤓.
 
