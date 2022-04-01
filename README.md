@@ -1,36 +1,4 @@
- <h1 align="center">I'm <a href="https://github.com/jainshubham766">Shubham Jain<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 
-#### Glad to see you here! 🤠
-<p align="center">
-    <img width="200" src="https://i.pinimg.com/originals/de/52/b7/de52b7bd3fbd77d5ca765bb6c40b3eb0.jpg">
-</p>
-
-<p>
-
-
----
-<div style="text-align: justify"> 
-
-I'm a Third year student pursuing Bachelors's in Computer Science 🎓 from Sinhgad College of Engineering, Pune 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development, SpringBoot 🕸️ and working on my Data Structures and Algorithms 🤓.
-
-</div>
-
-<img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
-
-- 🔭 I’m currently working on Web Design Projects and Restful API.
-
-- 🌱 I’m currently learning Spring Boot framework with MySQL and MongoDB Database.
-
-- 💬 Ask me anything 🤓
-
-- 📫 How to reach me: <a href =https://www.linkedin.com/in/jainshubham766/ target=_blank> LinkedIn</a>
-
-- 🥅 2022 Goals: Better in Coding & Solid DSA Foundation.
-<hr>
- <br>
-<br>
- 
- <h1 align="center" >🛠 &nbsp; Languages and Tools</h1><br>
 
 |<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width=40> | <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width=40> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="40"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="40"> | <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" width="40"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="40"> | <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/cpp.png" alt="c++" width="40"> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40">  | <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="php" width="40">  | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="r" width="40"> | <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40"> | <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40"> | <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="git" width="40"> |  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="postman" width="40">| 
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
