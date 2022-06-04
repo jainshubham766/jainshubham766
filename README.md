@@ -1,4 +1,4 @@
- <h1 align="center">I'm <a href="https://github.com/jainshubham766">Shubham Jain<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+ <h1 align="center">I'm <a href="https://github.com/jainshubham766">Shubham Jain<a></h1>
 
 #### Glad to see you here! 🤠
 <p align="center">
