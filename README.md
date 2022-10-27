@@ -1,3 +1,4 @@
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainshubham766&label=Profile%20views&color=0e75b6&style=flat" alt="jainshubham766" /> </p>
  <h1 align="center">I'm <a href="https://github.com/jainshubham766">Shubham Jain<a></h1>
 
@@ -29,6 +30,9 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Sinh
 - 🥅 2022 Goals: Better in Coding & Solid DSA Foundation.
 <hr>
  <br>
+ 
+[![@jainshubham766's Holopin board](https://holopin.me/jainshubham766)](https://holopin.io/@jainshubham766) 
+ <br>
 <br>
  <p align = "center">
   <img src = "http://github-readme-streak-stats.herokuapp.com?user=jainshubham766&theme=Javascript&hide_border=true&date_format=M%20j%5B%2C%20Y%5D">
@@ -47,3 +51,5 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Sinh
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jainshubham766)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jainshubham766)
  <a href="mailto:shubham.fhyae19@sinhgad.edu?subject=Hello%20Sameer"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp; 
+ 
+
