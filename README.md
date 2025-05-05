@@ -13,7 +13,8 @@
 ---
 <div style="text-align: justify"> 
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from Sinhgad College of Engineering, Pune 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to 💻. I'm currently into Web Development, SpringBoot 🕸️ and working on my Data Structures and Algorithms 🤓.
+Dynamic Data Analyst with 1.7+ years of experience at Ernst & Young, specializing in process automation, data optimization, and business intelligence. Proven track record of reducing operational efforts by 80% and achieving a 95% increase in process efficiency. Awarded EY's Spot Award for impactful automation solutions. Proficient in Python, Java, SQL, and cloud cost 
+optimization with Azure. Published author in IEEE and GeeksforGeeks, with strong analytical, problem-solving, and technical writing skills. Committed to leveraging data-driven insights for strategic decision-making and scalable solutions 🤓.
 
 </div>
 
