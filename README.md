@@ -37,7 +37,7 @@ Passionate about building scalable backend systems and data-driven applications,
 <a href="https://www.geeksforgeeks.org/user/jainshubham766/contributions/" target="_blank" rel="noopener noreferrer">
   GeeksforGeeks
 </a>
-
+<br>
 ✍️ Always open for collaborations, ideas, and learning opportunities 🤓
 <hr>
  <br>
