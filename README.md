@@ -13,22 +13,32 @@
 ---
 <div style="text-align: justify"> 
 
-Dynamic Data Analyst with 1.7+ years of experience at Ernst & Young, specializing in process automation, data optimization, and business intelligence. Proven track record of reducing operational efforts by 80% and achieving a 95% increase in process efficiency. Awarded EY's Spot Award for impactful automation solutions. Proficient in Python, Java, SQL, and cloud cost 
-optimization with Azure. Published author in IEEE and GeeksforGeeks, with strong analytical, problem-solving, and technical writing skills. Committed to leveraging data-driven insights for strategic decision-making and scalable solutions 🤓.
+Dynamic Data Analyst with ~3 years of experience at Ernst & Young (EY), specializing in data optimization, automation, and business intelligence. Proven record of reducing operational efforts by 80% and improving process efficiency by 95% — recognized with EY’s Spot Award for impactful automation.
+
+Passionate about building scalable backend systems and data-driven applications, with hands-on expertise in Python, Java, SQL, and Azure. Published author on IEEE and GeeksforGeeks, blending analytical rigor with a knack for clean, efficient code.
 
 </div>
 
 <img align="right" height="270px" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" />
 
-- 🔭 I’m currently working on Web Design Projects and Restful API.
+⚙️ Current Focus
 
-- 🌱 I’m currently learning Spring Boot framework with MySQL and MongoDB Database.
+🔭 Working on Web Design Projects and RESTful API development
 
-- 💬 Ask me anything 🤓
+🌱 Exploring Spring Boot, MySQL, and MongoDB
 
-- 📫 How to reach me: <a href =https://www.linkedin.com/in/jainshubham766/ target=_blank> LinkedIn</a>
+💬 Ask me about data automation, backend design, or process optimization
 
-- 🥅 2022 Goals: Better in Coding & Solid DSA Foundation.
+📫 Connect with Me
+
+<a href="https://www.linkedin.com/in/jainshubham766" target="_blank" rel="noopener noreferrer">
+  LinkedIn
+</a> <br>
+<a href="https://www.geeksforgeeks.org/user/jainshubham766/contributions/" target="_blank" rel="noopener noreferrer">
+  GeeksforGeeks
+</a>
+
+✍️ Always open for collaborations, ideas, and learning opportunities 🤓
 <hr>
  <br>
  
