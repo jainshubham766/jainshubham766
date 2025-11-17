@@ -13,7 +13,7 @@
 ---
 <div style="text-align: justify"> 
 
-Dynamic Data Analyst with ~3 years of experience at Ernst & Young (EY), specializing in data optimization, automation, and business intelligence. Proven record of reducing operational efforts by 80% and improving process efficiency by 95% — recognized with EY’s Spot Award for impactful automation.
+Dynamic Data Analyst with ~3 years of experience at Ernst & Young (EY), specializing in data optimization, automation, and business intelligence. Proven record of reducing operational efforts by 80% and improving process efficiency by 95% — recognized with EY’s Spot Award for impactful automation. 
 
 Passionate about building scalable backend systems and data-driven applications, with hands-on expertise in Python, Java, SQL, and Azure. Published author on IEEE and GeeksforGeeks, blending analytical rigor with a knack for clean, efficient code.
 
